@@ -1,2 +1,1 @@
-# geiIphoneAppInfo
-获取手机所有APP信息
+http://octree.me/post/ios/2016-08-01
